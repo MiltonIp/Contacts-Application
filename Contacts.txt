@@ -1,14 +1,21 @@
-Friend
-gfsdgfdggdfgsg
-Yo
-dsfjkhskghf
-gfdgfsf
-534
-77
-Business
-dfsfdf|dsfsfdf
-fdsfdfds
-fdfdfdsf
-dfdsfsdff
-543543
-796
+Business 
+Software Engineer|Pied Piper 
+John Smith 
+1 Heather Dr. 
+email@email.net 
+123-543-1222 
+772 
+Family 
+Grandmother 
+Heather Jones 
+99 Homith St. 
+heathersmith@email.com 
+999-999-9999 
+122 
+Friend 
+Met at soccer club 
+Alex Man 
+123 Address Crescent 
+manly@email.ca 
+000-000-0000 
+151
