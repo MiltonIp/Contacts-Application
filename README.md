@@ -6,11 +6,12 @@ Format of text file:
 
 Line 1: type of contact ("Friend", "Family" or "Business")
 
-Line 2: For Friend: Context E.g. classmate from CS 452 
+Line 2: 
+For Friend: Context E.g. classmate from CS 452 
 
-        For Family: Relationship E.g. First cousin once removed
+For Family: Relationship E.g. First cousin once removed
         
-        For Business: -title- | -company- E.g. Software Engineer | Pied Piper
+For Business: -title- | -company- E.g. Software Engineer | Pied Piper
         
 Line 3: Name of contact 
 
