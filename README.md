@@ -7,6 +7,7 @@ Format of text file:
 Line 1: type of contact ("Friend", "Family" or "Business")
 
 Line 2: 
+
 For Friend: Context E.g. classmate from CS 452 
 
 For Family: Relationship E.g. First cousin once removed
