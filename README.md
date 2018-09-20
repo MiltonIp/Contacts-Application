@@ -1,3 +1,7 @@
+# Why is the data stored in txt instead of JSON?
+
+This was made a long, long time ago before I knew that JSON was the standard for exchanging data
+
 # Contacts-Application
 An application that can add, edit, view and delete contacts
 
