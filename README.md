@@ -2,12 +2,14 @@ Why is the data stored in txt instead of JSON?
 
 This was made a long, long time ago before I knew that JSON was the standard for exchanging data
 
-Why are there no commits?
+Why are there no/only random commits?
 
 This was made a long, long time ago with SVN version control so I just uploaded all files here at once
 
 # Contacts-Application
-An application that can add, edit, view and delete contacts
+A CRUD application that can add, edit, view and delete contacts and persists data using a .txt file
+
+To run, just download the JAR file under releases and execute the file
 
 
 Format of text file:
