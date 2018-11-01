@@ -9,9 +9,15 @@ This was made a long, long time ago with SVN version control so I just uploaded 
 # Contacts-Application
 A CRUD application that can add, edit, view and delete contacts and persists data using a .txt file
 
+# Running App
 To run, just download the JAR file under releases and execute the file
 
+# Run Source Code
+`git clone https://github.com/MiltonIp/Contacts-Application.git`
 
+To run the code directly, the entrypoint is ContactsMain.java in Contacts-Application/src/ContactsMain.java
+
+# Format
 Format of text file:
 
 Line 1: type of contact ("Friend", "Family" or "Business")
